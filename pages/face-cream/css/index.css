@@ -2767,48 +2767,42 @@ input[type="number"] {
     padding: 0 50px;
     box-sizing: border-box;
   }
-
   .sp-part2 .sp-part2-swiper {
+    display: none;
+
+  }
+  .sp-part2 .sp-swiper2-m {
+    display: block;
     margin-top: 44px;
-    overflow: visible;
     padding-bottom: 20px;
     width: 100%;
     overflow: hidden;
-    padding-left: 44px;
-    padding-right: 44px;
     box-sizing: border-box;
+  }
+  .sp-part2 .sp-swiper2-m .swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
   }
   .sp-part2 .sp-row {
     margin-top: 0;
   }
-  .sp-part2 .sp-part2-swiper .swiper-slide {
-    width: calc((100% - 20px) / 3);
+  .sp-part2 .sp-swiper2-m .sp-img {
     height: auto;
-    flex-shrink: 0;
-  }
-  .sp-part2 .sp-part2-swiper .sp-row .sp-item {
-    width: auto;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 20px;
-  }
-  .sp-part2 .sp-row .sp-item .sp-img {
-    height: 405px;
-    width: 283px;
+    width: 100%;
+    max-width: 100%;
     display: block;
+    object-fit: contain;
   }
 
-
-
-  .sp-part2 .sp-row .sp-item .sp-text {
+  .sp-part2 .sp-swiper2-m .sp-text {
     text-align: center;
     color: #5E0D15;
     font-family: "Poppins-Light";
     font-weight: 300;
     font-size: 30px;
     text-align: center;
+    margin-top: 30px;
   }
 
   .sp-part3 {

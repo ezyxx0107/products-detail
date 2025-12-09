@@ -249,19 +249,19 @@
         });
 
         // 移动端 sp-part2 轮播（默认展示3个）
-        if (document.body.clientWidth <= 1080) {
-          this.swipers.part2 = new Swiper(".sp-part2-swiper", {
-            slidesPerView: 3,
-            slidesPerGroup: 1,
-            spaceBetween: 10,
-            loop: true,
-            centeredSlides: false,
-            autoplay: {
-              disableOnInteraction: false,
-              delay: 3000,
-            },
-          });
-        }
+        // if (document.body.clientWidth <= 1080) {
+        //   this.swipers.part2 = new Swiper(".sp-part2-swiper", {
+        //     slidesPerView: 3,
+        //     slidesPerGroup: 1,
+        //     spaceBetween: 10,
+        //     loop: true,
+        //     centeredSlides: false,
+        //     autoplay: {
+        //       disableOnInteraction: false,
+        //       delay: 3000,
+        //     },
+        //   });
+        // }
 
         // sp-part3 轮播（4张图片，带分页指示器，无导航按钮）
         this.swipers.part3 = new Swiper(".sp-swiper-part3", {
