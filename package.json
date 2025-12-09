@@ -1,0 +1,17 @@
+{
+  "name": "products-detail",
+  "version": "1.0.0",
+  "description": "产品详情页面开发环境",
+  "scripts": {
+    "dev:face-cream": "vite pages/face-cream",
+    "dev:demo": "vite pages/demo",
+    "dev:p602": "vite pages/p602",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
+

@@ -1,0 +1,126 @@
+@font-face {
+  /* 重命名字体名 */
+  font-family: "Roboto-Regular";
+  /* 引入字体 */
+  src: url("./Roboto-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  /* 重命名字体名 */
+  font-family: "Roboto-Bold";
+  /* 引入字体 */
+  src: url("./Roboto-Bold.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  /* 重命名字体名 */
+  font-family: "Roboto-Medium";
+  /* 引入字体 */
+  src: url("./Roboto-Medium.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  /* 重命名字体名 */
+  font-family: "Poppins-Medium";
+
+  /* 引入字体 */
+  src: url("./Poppins-Medium.ttf");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Poppins-SemiBold";
+  src: url("./Poppins-SemiBold.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  /* 重命名字体名 */
+  font-family: "Poppins-Bold";
+
+  /* 引入字体 */
+  src: url("./Poppins-Bold.ttf");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  /* 重命名字体名 */
+  font-family: "Poppins-Regular";
+  src: url("./Poppins-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  /* 重命名字体名 */
+  font-family: "Poppins-Light";
+  src: url("./Poppins-Light.ttf");
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Poppins-ExtraBold";
+  src: url("./Poppins-ExtraBold.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Poppins-ExtraLight";
+  src: url("./Poppins-ExtraLight.ttf");
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Bacchus-SemiBold";
+  src: url("./Bacchus-SemiBold-2.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Revamped";
+
+  src: url("./Revamped.otf");
+  font-style: normal;
+}
+@font-face {
+  font-family: "VladimirScri";
+
+  src: url("./VLADIMIR.TTF");
+  font-style: normal;
+}
+@font-face {
+  /* 重命名字体名 */
+  font-family: "AkzidenzGroteskBQ-Medium";
+
+  /* 引入字体 */
+  src: url("./AKZIDENZGROTESK-MEDIUM.OTF");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  /* 重命名字体名 */
+  font-family: "Bacchus";
+
+  /* 引入字体 */
+  src: url("./Bacchus.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  /* 重命名字体名 */
+  font-family: "Bacchus-SemiBold";
+
+  /* 引入字体 */
+  src: url("./Bacchus-SemiBold.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
